@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-teaching: 6 hours
+teaching: 360
 exercises: lots!
 questions:
 - "What will we be doing the next 3 weeks?"
@@ -17,6 +17,7 @@ R is one of the most popular statistical programming languages in the world. It'
 There is also a certain flavor of nerd (we say with all love), who keeps all of their daily life notes in markdown. Those are the sorts of folks who do a lot of this stuff.
 
 ## What will we do?
+
 ### Week 1: Introduction to Reproducible Publications with RStudio
 - 1 [Scientific Reproducibility: What is it for?](https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/01-introduction/index.html)
 - 2 [Navigating Rstudio and Quarto Documents](https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/02-basic-rstudio/index.html)
@@ -32,3 +33,4 @@ There is also a certain flavor of nerd (we say with all love), who keeps all of 
 ### Week 3: Visualization and beyond
 - [Introduction to Visualization with ggPlot](https://datacarpentry.org/r-intro-geospatial/07-plot-ggplot2.html)
 - [Planet Labs](https://www.planet.com)
+
