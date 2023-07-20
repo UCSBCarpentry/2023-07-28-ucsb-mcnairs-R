@@ -17,16 +17,18 @@ R is one of the most popular statistical programming languages in the world. It'
 There is also a certain flavor of nerd (we say with all love), who keeps all of their daily life notes in markdown. Those are the sorts of folks who do a lot of this stuff.
 
 ## What will we do?
-- Week 1: Introduction to Reproducible Publications with RStudio
+### Week 1: Introduction to Reproducible Publications with RStudio
 - 1 [Scientific Reproducibility: What is it for?](https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/01-introduction/index.html)
 - 2 [Navigating Rstudio and Quarto Documents](https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/02-basic-rstudio/index.html)
 - 6 [Writing and Styling Qmd Documents](https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/06-writing-styling/index.html)
 - 9 [Bibliography, Citations, and Cross-Referencing](https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/09-biblio-crossref/index.html)
-- Week 2: Introduction to R
+
+### Week 2: Introduction to R
 - 2 [Project Management With RStudio](https://datacarpentry.org/r-intro-geospatial/02-project-intro.html)
 - 3 [Data Structures](https://datacarpentry.org/r-intro-geospatial/03-data-structures-part1.html)
 - 4 [Exploring Data Frames](https://datacarpentry.org/r-intro-geospatial/04-data-structures-part2.html)
 - 5 [Subsetting Data](https://datacarpentry.org/r-intro-geospatial/05-data-subsetting.html)
-- Week 3: Visualization and beyond
+
+### Week 3: Visualization and beyond
 - [Introduction to Visualization with ggPlot](https://datacarpentry.org/r-intro-geospatial/07-plot-ggplot2.html)
 - [Planet Labs](https://www.planet.com)
