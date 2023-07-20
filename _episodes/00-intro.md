@@ -1,13 +1,13 @@
 ---
-title: "Introduction"
-teaching: 15
-exercises: 3
+title: "Overview"
+teaching: 6 hours
+exercises: lots!
 questions:
-- "How do you auto-generate a schedule on a workshop page?"
+- "What will we be doing the next 3 weeks?"
 objectives:
-- "Understand how to auto-generate a schedule on a workshop page"
+- "Acquaint ourselves with scientific computing in RStudio"
 keypoints:
-- "the episodes folder should include numbered markdown files with `teaching` and `exercises` fields in the front matter"
+- "There's no need to run between gDocs/MS Word and gSheets/Excel. Do your computation and your writing all in the same place."
 ---
 
 # Code Document Workflow
@@ -27,5 +27,6 @@ There is also a certain flavor of nerd (we say with all love), who keeps all of 
 - 3 [Data Structures](https://datacarpentry.org/r-intro-geospatial/03-data-structures-part1.html)
 - 4 [Exploring Data Frames](https://datacarpentry.org/r-intro-geospatial/04-data-structures-part2.html)
 - 5 [Subsetting Data](https://datacarpentry.org/r-intro-geospatial/05-data-subsetting.html)
-- Week 3
-- ggPlot
+- Week 3: Visualization and beyond
+- [Introduction to Visualization with ggPlot](https://datacarpentry.org/r-intro-geospatial/07-plot-ggplot2.html)
+- [Planet Labs](https://www.planet.com)
