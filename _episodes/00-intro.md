@@ -1,6 +1,6 @@
 ---
 title: "Overview"
-teaching: 6 hours
+teaching: 360
 exercises: lots!
 questions:
 - "What will we be doing the next 3 weeks?"
