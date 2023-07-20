@@ -25,5 +25,5 @@ There is also a certain flavor of nerd (we say with all love), who keeps all of 
 - Introduction to R
 - 2 [Project Management With RStudio](https://datacarpentry.org/r-intro-geospatial/02-project-intro.html)
 - 3 [Data Structures](https://datacarpentry.org/r-intro-geospatial/03-data-structures-part1.html)
-- 4 Exploring Data Frames
-- 5 Subsetting Data
+- 4 [Exploring Data Frames](https://datacarpentry.org/r-intro-geospatial/04-data-structures-part2.html)
+- 5 [Subsetting Data](https://datacarpentry.org/r-intro-geospatial/05-data-subsetting.html)
