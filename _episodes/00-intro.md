@@ -25,7 +25,7 @@ There is also a certain flavor of nerd (we say with all love), who keeps all of 
 - 9 [Bibliography, Citations, and Cross-Referencing](https://ucsbcarpentry.github.io/Reproducible-Publications-with-RStudio-Quarto/09-biblio-crossref/index.html)
 
 ### Week 2: Introduction to R
-Data file: [week2.zip](https://ucsbcarpentry.github.io/2023-07-28-ucsb-mcnairs-R/data/week2.zip0)
+Data file: [week2.zip](https://ucsbcarpentry.github.io/2023-07-28-ucsb-mcnairs-R/data/week2.zip)
 - 2 [Project Management With RStudio](https://datacarpentry.org/r-intro-geospatial/02-project-intro.html)
 - 3 [Data Structures](https://datacarpentry.org/r-intro-geospatial/03-data-structures-part1.html)
 - 4 [Exploring Data Frames](https://datacarpentry.org/r-intro-geospatial/04-data-structures-part2.html)
