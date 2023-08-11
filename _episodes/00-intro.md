@@ -16,6 +16,8 @@ R is one of the most popular statistical programming languages in the world. It'
 
 There is also a certain flavor of nerd (we say with all love), who keeps all of their daily life notes in markdown. Those are the sorts of folks who do a lot of this stuff.
 
+We will be using a [version of RStudio hosted by UCSB's LSIT](https://carpentryworkshop.lsit.ucsb.edu)
+
 ## What will we do?
 
 ### Week 1: Introduction to Reproducible Publications with RStudio
