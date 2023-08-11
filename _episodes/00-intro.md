@@ -32,6 +32,7 @@ Data file: [week2.zip](https://ucsbcarpentry.github.io/2023-07-28-ucsb-mcnairs-R
 - 5 [Subsetting Data](https://datacarpentry.org/r-intro-geospatial/05-data-subsetting.html)
 
 ### Week 3: Visualization and beyond
+[Week 3 script: ep7.R](code/ep7.R)
 - [Introduction to Visualization with ggPlot](https://datacarpentry.org/r-intro-geospatial/07-plot-ggplot2.html)
 - [Planet Labs](https://www.planet.com)
 
